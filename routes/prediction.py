@@ -1,7 +1,7 @@
 from flask import Blueprint, request, jsonify
 from tensorflow.keras.preprocessing import image
 import numpy as np
-from app.utils.model_loader import load_trained_model
+from utils.model_loader import load_trained_model
 import os
 from werkzeug.utils import secure_filename
 

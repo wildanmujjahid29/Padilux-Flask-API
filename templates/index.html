@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Padilux API</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            padding: 2rem;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        h1 {
+            color: #2a8fbd;
+        }
+        .endpoint {
+            background: white;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        code {
+            background: #eee;
+            padding: 0.2rem 0.4rem;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🌾 Padilux API</h1>
+    <p>Welcome to the <strong>Padilux API</strong> for rice leaf disease detection.</p>
+
+    <div class="endpoint">
+        <h2>📸 <code>/predict</code> – Predict Disease</h2>
+        <p><strong>Method:</strong> POST</p>
+        <p><strong>Description:</strong> Upload an image of a rice leaf to get a disease prediction.</p>
+        <p><strong>Body:</strong> <code>image: file</code> (form-data)</p>
+        <p><strong>Response:</strong> JSON with prediction and confidence.</p>
+    </div>
+
+    <div class="endpoint">
+        <h2>📚 <code>/diseases</code> – Get All Diseases</h2>
+        <p><strong>Method:</strong> GET</p>
+        <p><strong>Description:</strong> Get the list of known rice leaf diseases used in the model.</p>
+    </div>
+
+    <footer style="margin-top: 2rem;">
+        <p style="font-size: 0.9em;">Built with ❤️ by Wildan Mujjahid</p>
+    </footer>
+</body>
+</html>
