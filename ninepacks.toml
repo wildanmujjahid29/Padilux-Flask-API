@@ -1,2 +1,5 @@
-[start]
-cmd = "gunicorn app:app"
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "python -m gunicorn app:app -b 0.0.0.0:$PORT"
