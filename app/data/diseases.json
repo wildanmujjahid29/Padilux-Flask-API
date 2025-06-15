@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bacterial Leaf Blight",
+    "description": "Bacterial Leaf Blight adalah penyakit serius yang disebabkan oleh bakteri Xanthomonas oryzae pv. oryzae. Biasanya muncul sebagai penguningan dan pengeringan pada ujung daun, dimulai dari tepi.",
+    "cause": "Disebabkan oleh bakteri Xanthomonas oryzae pv. oryzae, terutama pada kondisi lembap dan hujan.",
+    "solution": "Gunakan varietas padi tahan penyakit, jaga kebersihan lahan, hindari pemupukan nitrogen berlebihan, dan pastikan drainase sawah yang baik."
+  },
+  {
+    "name": "Brown Spot",
+    "description": "Brown Spot menyebabkan bercak kecil, bundar hingga oval, berwarna coklat tua pada daun. Mengurangi kualitas dan hasil panen.",
+    "cause": "Disebabkan oleh jamur Cochliobolus miyabeanus, sering diperparah oleh kekurangan nutrisi dan stres kekeringan.",
+    "solution": "Gunakan pupuk seimbang (terutama kalium), gunakan benih bersih, dan semprotkan fungisida bila diperlukan."
+  },
+  {
+    "name": "Healthy Rice Leaf",
+    "description": "Daun tanpa gejala penyakit yang terlihat. Tampak hijau, segar, dan tidak rusak.",
+    "cause": "Tidak ada penyakit. Daun dalam kondisi sehat.",
+    "solution": "Jaga irigasi yang baik, praktik pertanian yang baik, dan pemupukan tepat waktu."
+  },
+  {
+    "name": "Leaf Blast",
+    "description": "Salah satu penyakit paling merusak pada padi, ditandai dengan bercak berbentuk gelendong dengan pusat abu-abu dan tepi coklat.",
+    "cause": "Disebabkan oleh jamur Pyricularia oryzae (Magnaporthe grisea), terutama pada kondisi lembap dan lahan kaya nitrogen.",
+    "solution": "Gunakan varietas tahan penyakit, aplikasikan nitrogen seimbang, dan pastikan drainase sawah yang baik. Semprotkan fungisida jika parah."
+  },
+  {
+    "name": "Leaf scald",
+    "description": "Leaf Scald menimbulkan bercak besar dan memanjang yang dapat menyatu dan menyebabkan bagian daun mengering.",
+    "cause": "Disebabkan oleh jamur Microdochium oryzae, terutama pada kondisi basah terus-menerus.",
+    "solution": "Perbaiki sistem drainase, hindari genangan terus-menerus, dan gunakan fungisida bila penyakit menyebar cepat."
+  },
+  {
+    "name": "Narrow Brown Leaf Spot",
+    "description": "Penyakit ini menyebabkan bercak sempit berwarna coklat yang bisa menyebabkan kematian daun jika parah.",
+    "cause": "Disebabkan oleh jamur Cercospora janseana, sering terjadi di lingkungan lembap dan basah.",
+    "solution": "Atur jarak tanam yang cukup, tingkatkan sirkulasi udara, dan semprotkan fungisida daun bila perlu."
+  },
+  {
+    "name": "Rice Hispa",
+    "description": "Rice Hispa adalah hama serangga yang mengikis permukaan atas daun, meninggalkan garis-garis putih sejajar.",
+    "cause": "Disebabkan oleh serangga Dicladispa armigera, yang bertelur di daun. Larva menggali daun dan menyebabkan kerusakan.",
+    "solution": "Ambil dan hancurkan daun yang terinfeksi, gunakan biopestisida berbahan dasar neem atau insektisida yang sesuai dengan petunjuk."
+  },
+  {
+    "name": "Sheath Blight",
+    "description": "Sheath Blight dimulai sebagai bercak kehijauan keabu-abuan di pelepah daun bawah dan dapat menyebar cepat ke atas.",
+    "cause": "Disebabkan oleh jamur Rhizoctonia solani, terutama pada kondisi penggunaan nitrogen berlebih dan penanaman terlalu rapat.",
+    "solution": "Hindari pemupukan nitrogen berlebihan, beri jarak tanam yang cukup, dan semprotkan fungisida sejak awal."
+  }
+]
